@@ -162,6 +162,10 @@ hr{
 
 
 @media only screen and (max-width: 686px) {
+    .main{
+        width: 100%;
+        align-items: center;
+    }
     .container{
         padding: 20px 15px;
         width: 380px;
